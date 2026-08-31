@@ -58,7 +58,8 @@
 
 
 ## On the AP Exam
-image.png
+<img width="1006" height="120" alt="image" src="https://github.com/user-attachments/assets/9ec69dbd-9e91-4372-a2d1-eebf01d32b64" />
+
   - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
 
