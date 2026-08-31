@@ -25,6 +25,9 @@
     Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
 </details>
 
+<details>
+<summary>How not to do pair programming:
+</summary>
 
 
 
