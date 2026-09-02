@@ -109,6 +109,15 @@ Most Android applications are developed using Java, including popular apps like:
 The original version of this popular game was developed in Java
   
 </details>
+
+<details>
+
+<summary> Personally Identifiable Information</summary>
+
+Information that can identify you as an individual is called personally identifiable information (PII). It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
+
+  
+</details>
 ### Practice
 
 # Text Formatting
