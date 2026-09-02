@@ -92,6 +92,23 @@ This ensures your notes are easy for you (and others) to read later.
 <summary>EBAY</summary>
   Built on Java to manage high traffic and complex transactions.
 </details>
+
+<details>
+<summary>android apps</summary>
+
+Most Android applications are developed using Java, including popular apps like: WhatsApp, Spotify, Twitter.  
+</details>
+
+<details>
+<summary>LinkedIn</summary>
+   Uses Java for its backend services.
+</details>
+<details>
+<summary>Minecraft</summary>
+
+The original version of this popular game was developed in Java
+  
+</details>
 ### Practice
 
 # Text Formatting
