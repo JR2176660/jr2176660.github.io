@@ -89,7 +89,7 @@ This ensures your notes are easy for you (and others) to read later.
 
 ### Notes
 <details>
-<summary?EBAY</summary>
+<summary>EBAY</summary>
   Built on Java to manage high traffic and complex transactions.
 </details>
 ### Practice
