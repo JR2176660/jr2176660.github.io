@@ -118,6 +118,88 @@ Information that can identify you as an individual is called personally identifi
 
   
 </details>
+
+<details>
+<summary>print</summary>
+Make sure the capitalization, parentheses, quotation marks, and semicolon are all in the right place! Don't add any spaces in the whole statement.
+
+System accesses a Java class that's built into the language
+
+out is short for "output".
+
+println is short for "print line".
+
+
+  
+</details>
+
+
+<details>
+<summary>comments</summary>
+
+
+Inline Comments: Short comments placed on the same line as the code to explain it.
+
+Multi-line comments: Longer comments placed between code segments.
+Explaining Code Logic: Help readers understand the use behind certain algorithms or logic.
+
+Marking TODOs: Indicate areas of the code that need further work or fixing.
+
+
+
+
+  
+</details>
+
+
+
+<details>
+
+
+<summary>variables</summary>
+In Java, we store information in little containers we call variables. A variable is like a box that can hold a variety of things. In Java, they can hold different types of data. For example, it might hold a number or a word.
+
+
+
+  
+</details>
+
+
+<details>
+<summary>string variable</summary>
+
+
+Let's create our first variable. When creating a variable, you have to say what kind of data type you are going to put inside it. We will learn more about different data types in an upcoming lesson. For now, we will put a word inside our variable. Data types that are words or phrases are called strings.
+
+Let's create a variable named weather that will hold a string data type.
+
+String weather = "sunny";
+
+Now that you created a variable, you can just print the variable name and it will print out what the variable holds.
+
+  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Practice
 
 # Text Formatting
