@@ -29,7 +29,12 @@
 <summary>How not to do pair programming:
 </summary>
 
+<details>
+  <summary> A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table.
 
+In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
+  </summary>
+</details>
 
 
 
