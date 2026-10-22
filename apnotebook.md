@@ -56,19 +56,32 @@
 <summary>The list expression list{Señora, Ms. C, my cat, Hannah, Jake} would be written as [Señora, Ms. C, my cat, Hannah, Jake]. The items are positioned in the list in the order they appear in the text: "Señora" has index 1, "Ms. C" has index 2, and so on.</summary>
 
 <img width="343" height="27" alt="list-from-who" src="https://github.com/user-attachments/assets/e6dcd6ee-676e-4ad4-8a24-2223d7edf113" />
+</details>
+<details>
 
 
-
-
-
-
-
-
+<summary>
+The assignment instruction set (shopping list) to (list) would be written as shoppingList ← [] or shoppingList ← [].
+The assignment instruction set (shopping list) to {apples, bread, carrots, rice, pasta} would be written as shoppingList ← [apples, bread, carrots, rice, pasta] or shoppingList ← [apples, bread, carrots, rice, pasta]. (In this app, you'll want the shopping list to begin empty, and then the user will add or insert additional grocery items one at a time.)
 
   
+</summary>
+
+
+
+
+
+<img width="503" height="42" alt="example-list-assignment" src="https://github.com/user-attachments/assets/6fbaa9b9-abe9-4aaf-8bec-6e3b13cdec13" />
+<img width="239" height="37" alt="example-blank-list-assignment" src="https://github.com/user-attachments/assets/6de5ed51-31cd-4259-b9b6-c3747f7fa58e" />
+  
 </details>
+<details>
 
-
+<summary>insert (tomatoes) at (2) of (shopping list) would be written as INSERT(shoppingList, 2, "tomatoes") or INSERT(shoppingList, 2, 'tomatoes').
+add (tomatoes) to (shopping list) would be written as APPEND(shoppingList, "tomatoes") or APPEND(shoppingList, 'tomatoes').</summary>
+<img width="283" height="37" alt="add-tomatoes-to-shopping-list" src="https://github.com/user-attachments/assets/c96f770e-e72c-4fba-b8ed-24ea9bca23c3" />
+<img width="370" height="37" alt="insert-tomatoes-at-2-of-shopping-list" src="https://github.com/user-attachments/assets/4dae056c-aeb0-42ee-a2ab-25fc03bdb449" />
+</details>
 
 
 
