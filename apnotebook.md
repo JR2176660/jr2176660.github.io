@@ -82,6 +82,56 @@ add (tomatoes) to (shopping list) would be written as APPEND(shoppingList, "toma
 <img width="283" height="37" alt="add-tomatoes-to-shopping-list" src="https://github.com/user-attachments/assets/c96f770e-e72c-4fba-b8ed-24ea9bca23c3" />
 <img width="370" height="37" alt="insert-tomatoes-at-2-of-shopping-list" src="https://github.com/user-attachments/assets/4dae056c-aeb0-42ee-a2ab-25fc03bdb449" />
 </details>
+<details>
+
+
+
+
+<img width="276" height="37" alt="delete-item-2-of-shopping-list" src="https://github.com/user-attachments/assets/dff219f8-4765-4ae1-a7dc-6ee83cc16b95" /> <summary>would be written as REMOVE(shoppingList, 2) or  </summary>
+<img width="174" height="23" alt="remove-blocktran" src="https://github.com/user-attachments/assets/4b3ba3f4-e368-40a6-a4fe-9dc4b44bc395" />
+
+</details>
+<details>
+
+
+<summary>When you run this script in Snap!, the second line of code assigns to shopping list 2 the value of shopping list (that is, the same list, not a copy). So, the third line of code modifies both variables:
+set(shopping list) to (list(apple)(banana))
+set(shopping list 2) to (shopping list)
+add (carrot) to (shopping list) shopping list watcher showing the contents of the variable to be apple, banana, carrot; and the shopping list 2 watcher showing the contents of the variable to be apple, banana, carrot
+
+However on the exam, the statement shoppingList2 ← shoppingList makes a copy of the list. So modifying one of them does not modify the other.
+The rules for how to use lists and how they behave differ depending on the programming language you are using.</summary>
+
+
+
+
+
+
+
+<img width="319" height="139" alt="example-list-by-reference-stage" src="https://github.com/user-attachments/assets/df369361-8f11-40ae-9ec8-bf7e4013c96c" />
+<img width="364" height="107" alt="example-list-by-reference" src="https://github.com/user-attachments/assets/563a92e7-dbb7-4841-bbba-0a972b0045f2" />
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
