@@ -50,7 +50,23 @@
      (Click help on the block to learned more about it in order to complete this definition)
 </details>
 
+<details>
 
+
+<summary>The list expression list{Señora, Ms. C, my cat, Hannah, Jake} would be written as [Señora, Ms. C, my cat, Hannah, Jake]. The items are positioned in the list in the order they appear in the text: "Señora" has index 1, "Ms. C" has index 2, and so on.</summary>
+
+<img width="343" height="27" alt="list-from-who" src="https://github.com/user-attachments/assets/e6dcd6ee-676e-4ad4-8a24-2223d7edf113" />
+
+
+
+
+
+
+
+
+
+  
+</details>
 
 
 
