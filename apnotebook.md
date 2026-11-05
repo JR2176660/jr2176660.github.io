@@ -16,6 +16,19 @@
 
 ## Vocab
 <details>
+  <summary>Element</summary>
+An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
+</details>
+
+
+
+
+
+
+
+
+
+<details>
   <summary>Abstraction</summary>
     The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
 </details>
