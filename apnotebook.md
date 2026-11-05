@@ -35,8 +35,33 @@
 In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
   </summary>
 </details>
+<details>
+<summary> datatype</summary>
+A data type is what kind of data something is (number, text string, list, etc.). For example, number is the data type for the first input to item (1) of () and list is the the data type for its second input.
+Each programming language provides some primitive data types (data types that are built-in). For example, Snap! provides numbers, text (words and sentences), Booleans (true or false), lists, and some you haven't yet used as data (such as sprites and costumes). This menu shows all of Snap!'s primitive types.
 
 
+
+
+
+
+
+
+  
+</details>
+<details>
+<summary>abstract data types</summary>
+An abstract data type (ADT) is a custom data type that's meaningful to your program. It's not built into the language; you develop it as you code. This is an abstraction because it hides the details inside the constructor and selectors so that programmers working with crossing record think about timestamps and events, not list indices.
+The Crossing Record block is the constructor; it constructs one example of the data structure. By naming the pieces of the structure, the constructor ensures you build the structure consistently every time.
+The selector blocks like Date, Time, Seed, of crossing record, are the selectors; they each select one piece of the data structure.
+The constructor and selector together implement the crossing record abstract data type.
+Data abstraction is the creation and use of abstract data types in a program.
+
+
+
+
+  
+</details>
 
 
 
@@ -145,6 +170,37 @@ The rules for how to use lists and how they behave differ depending on the progr
 
 
 ## On the AP Exam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="1006" height="120" alt="image" src="https://github.com/user-attachments/assets/9ec69dbd-9e91-4372-a2d1-eebf01d32b64" />
 
   - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
