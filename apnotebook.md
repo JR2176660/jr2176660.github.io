@@ -28,7 +28,7 @@
 <details>
 <summary>How not to do pair programming:
 </summary>
-
+</details>
 <details>
   <summary> A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table.
 
