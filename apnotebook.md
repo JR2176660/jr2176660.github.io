@@ -23,10 +23,20 @@ An element is another name for an item in a list. (If the same value is in the l
   <summary>table</summary>A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
 </details>
 <details><summary>traversing a list </summary>Traversing a list means looking at each item of the list. For each is iterative. That is, it’s repetitive, like for, which can also traverse a list. But unlike for, for each traverses the list without using index numbers.</details>
+<details><summary> Domain and Range</summary>
+The input type (often called domain by programmers) of a function is the type of data that it accepts as input.
+  The output type (often called range) of a function is the type of data that it reports as output.
+</details>
+<details><summary>Sequencing, Selection, Iteration</summary>Selection means deciding (selecting) which part of an algorithm to run based on whether a condition is true or false.
+
+Every algorithm can be constructed using sequencing (following steps in order), selection (deciding), and iteration (repeating).
 
 
+</details>
+<details><summary>nested conditional statement</summary>A nested conditional statement is an if or if else statement inside another if else statement.</details>
+<details><summary>String and Index</summary>A string is an ordered sequence of characters.
 
-
+  You've already learned the word index for the position of an element in a list. The same word is used for the position of a character in a string (for example, a letter in a word). So the first input to letter is the index.</details>
 
 
 
@@ -191,6 +201,63 @@ The script <img width="313" height="88" alt="example-for-each-point" src="https:
     goto(point)
 }
 or     <img width="223" height="74" alt="for-each-blocktran" src="https://github.com/user-attachments/assets/732eb02d-0b56-4aee-af66-47ea935cd75a" /> The procedure goto() isn't built in to the AP's language so it is written in lower case like other programmer-defined procedures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may see these five relational operators: =, >, <, ≥, ≤ as well as a sixth: ≠, which means "not-equal" and reports false if the two inputs are equal and otherwise reports true (if they are not equal). When you write the 
+<img width="90" height="27" alt="not-equal" src="https://github.com/user-attachments/assets/28225770-f6b8-494f-af36-cd3c01221f82" /> 
+block, it will work like this:
+<img width="194" height="44" alt="not-equal-reporting-true" src="https://github.com/user-attachments/assets/c2c9a4ca-2818-4322-8969-7a022954a9d7" />
+<img width="194" height="44" alt="not-equal-reporting-false" src="https://github.com/user-attachments/assets/5089ea5a-740f-46da-a2e2-2e729eaacdd5" />
+These six relational operators all report a Boolean value (true or false).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
