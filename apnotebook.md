@@ -19,8 +19,10 @@
   <summary>Element</summary>
 An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
 </details>
-
-
+<details>
+  <summary>table</summary>A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
+</details>
+<details><summary>traversing a list </summary>Traversing a list means looking at each item of the list. For each is iterative. That is, it’s repetitive, like for, which can also traverse a list. But unlike for, for each traverses the list without using index numbers.</details>
 
 
 
@@ -184,6 +186,11 @@ The rules for how to use lists and how they behave differ depending on the progr
 
 ## On the AP Exam
 
+The script <img width="313" height="88" alt="example-for-each-point" src="https://github.com/user-attachments/assets/dca852c5-ef07-4405-9d5e-e8c2e05708ae" />  would be written as FOR EACH point IN myDrawing
+{
+    goto(point)
+}
+or     <img width="223" height="74" alt="for-each-blocktran" src="https://github.com/user-attachments/assets/732eb02d-0b56-4aee-af66-47ea935cd75a" /> The procedure goto() isn't built in to the AP's language so it is written in lower case like other programmer-defined procedures.
 
 
 
