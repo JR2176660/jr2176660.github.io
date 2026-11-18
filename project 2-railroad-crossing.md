@@ -15,6 +15,7 @@ and this is the train station build
 <img width="609" height="453" alt="Screenshot 2026-11-16 141200" src="https://github.com/user-attachments/assets/368f326c-97b6-4235-b493-8a95497409f4" />
 this code is made to activate the position servo to move when the distance sensor gets triggered. this position servo moves a piece of cardboard attached to it to stop a train from going. when the distance sensor is triggered, the light turns red for about 5 seconds then turns green again, indicating that the train may go again
 
-
+One of the problems was the lights not turning red for long enough, it was only red for one second and then it would turn off and then turn green again, how i fixed this was making the 2nd rgb code block turn red for one more time so it just goes straight into being green.
+Another problem i faced was the quiz variable not having a check mark, how i fixed it was deleting the variable and then making it again.
 
 
